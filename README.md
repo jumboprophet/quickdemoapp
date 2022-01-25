@@ -38,5 +38,5 @@ system.out.println("This is the java code");
 [**references**](references)
 
 
-![pic](IMG_8945.JPG)
+![IMG_8945.JPG](IMG_8945.JPG)
 
